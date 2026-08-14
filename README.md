@@ -93,7 +93,7 @@ Key features:
 
 The application uses shared enterprise objects to support multiple operational workflows.
 
-
+```text
 Department
 |
 +---- Employee
