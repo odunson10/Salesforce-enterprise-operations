@@ -111,4 +111,19 @@ The Security Operations Dashboard provides:
 - Custom Report Types
 - Reports
 - Dashboards
-- Security Operations Workflow Design
+- Security ## Screenshots
+
+### Validation Rule Error
+![Security Incident Validation Error](01-security-incident-validation-error.png)
+
+### Security Incident Record
+![Security Incident Record](02-security-incident-record.png)
+
+### High-Risk Escalation Flow
+![High-Risk Escalation Flow](03-high-risk-escalation-flow.png)
+
+### High-Risk Escalation Test
+![High-Risk Escalation Test](04-high-risk-escalation-test.png)
+
+### Security Operations Dashboard
+![Security Operations Dashboard](05-security-operations-dashboard.png) Workflow Design
