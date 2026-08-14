@@ -103,6 +103,7 @@ Department
 +---- Security Incident
 |
 +---- Employee Onboarding
+```
 
 ## Automation Highlights
 
