@@ -92,5 +92,21 @@ The Employee Onboarding Dashboard provides:
 
 - Onboarding distribution by status
 - Onboarding workload by department
+- ## Screenshots
+
+### Validation Rule Error
+![Onboarding Validation Error](01-onboarding-validation-error.png)
+
+### Completed Onboarding Record
+![Completed Onboarding Record](02-completed-onboarding-record.png)
+
+### Completion Date Flow
+![Completion Date Flow](03-completion-date-flow.png)
+
+### Completion Date Automation Test
+![Completion Date Test](04-completion-date-test.png)
+
+### Employee Onboarding Dashboard
+![Employee Onboarding Dashboard](05-employee-onboarding-dashboard.png)
 - Completed onboarding count
 - Onboarding workload by manager
